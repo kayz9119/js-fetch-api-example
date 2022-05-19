@@ -1,0 +1,11 @@
+{
+  "name": "js-fetch-api-example",
+  "version": "1.0.0",
+  "description": "A simple JavaScript example for 'fetch' function and get data from an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kayz Monroe",
+  "license": "ISC"
+}
